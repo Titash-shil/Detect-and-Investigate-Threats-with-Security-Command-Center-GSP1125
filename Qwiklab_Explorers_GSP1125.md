@@ -16,7 +16,10 @@ sudo chmod +x qwiklab_explorers_gsp1125.sh
 
 ./qwiklab_explorers_gsp1125.sh
 ```
-
+- ### Now, Check the Score for `Task-1` & `Task-2` & then only run the below commands to delete the instance 
+```
+gcloud compute instances delete instance-1
+```
 ---
 
 ## Congratulations ..!!🎉  You completed the lab shortly..😃💯
